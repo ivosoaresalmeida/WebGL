@@ -17,7 +17,6 @@ Com esse intuito foi desenvolvido uma representação de um Festival de Verão. 
 - Tecla “L” - permite desligar luz presencial imitida do palco (bola de luz) e ativar os holofotes.
 - Tecla “K” - permite ligar a luz presencial imitida do palco (bola de luz) e desligar os holofotes.
 - Tecla “1” - alterar a altitude do drone em sentido positivo do eixo do y.
-- Tecla “1” - alterar a altitude do drone em sentido positivo do eixo do y.
 - Tecla “2” - alterar a altitude do drone em sentido negativo do eixo do y até ao mínimo de 0 (posição do plano).
 
 # Explicação dos vários componentes do cenário
